@@ -1,0 +1,6 @@
+module Pods_ASH {
+  umbrella header "Pods-ASH-umbrella.h"
+
+  export *
+  module * { export * }
+}
